@@ -4,6 +4,8 @@
 
 #### Built Using Tailwindcss
 
+Check it now: nft-card-component-challenge.pages.dev
+
 **Preview:**
 
 ![alt img](./public/design/desktop-design.jpg)
